@@ -1,8 +1,7 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-Introduction
+This is an introduction this is an introduction this is an introduction, this is an introduction this is an introduction this is an introduction. This is an introduction\
+This is an introduction
 
 #### Email
 jtlv@stu.pku.edu.cn
@@ -14,3 +13,5 @@ B.S., Resource Exploration Engineering, China University of Geosciences (Wuhan),
 #### Research Interests
 Formation and evolution of continental crust.
 
+#### Hobbies
+Writing interesting articles, traveling, photography, and sports.

@@ -1,9 +1,3 @@
-- First-prize Academic Scholarship, 2023.
 
-- Freshman Academic Scholarship, 2022.
+- <strong>Nothing</strong>, Nothing, and Nothing (202x). Nothing Nothing Nothing Nothing Nothing Nothing Nothing. <strong>Silence</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
