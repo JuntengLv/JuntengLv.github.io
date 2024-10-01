@@ -8,7 +8,7 @@ jtlv@stu.pku.edu.cn
 
 #### Education
 Ph.D., Geochemistry, Peking University, 2024—2029 (expected).\
-B.S., Resource Exploration Engineering, China University of Geosciences (Wuhan), 2020—2024.
+B.E., Resource Exploration Engineering, China University of Geosciences (Wuhan), 2020—2024.
 
 #### Research Interests
 Formation and evolution of continental crust.
