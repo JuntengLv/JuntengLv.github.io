@@ -1,7 +1,6 @@
 
 
-This is an introduction this is an introduction this is an introduction, this is an introduction this is an introduction this is an introduction. This is an introduction\
-This is an introduction
+  I'm currently pursuing my PhD in geochemistry at Peking University, where my research focuses on understanding the formation and evolution of continental crust. I have a deep interest in unraveling the processes that have shaped our planet over geological timescales. Beyond my research, I am passionate about science communication, and I dedicate significant time to engaging in outreach activities, both in person and through writing popular science articles. I believe that making scientific knowledge accessible to the public is crucial for fostering curiosity and inspiring future generations to explore the wonders of our world.
 
 #### Email
 jtlv@stu.pku.edu.cn
