@@ -7,8 +7,8 @@ This is an introduction
 jtlv@stu.pku.edu.cn
 
 #### Education
-Ph.D., Geochemistry, Peking University, 2024—2029 (expected).\
-B.E., Resource Exploration Engineering, China University of Geosciences (Wuhan), 2020—2024.
+Ph.D., Geochemistry, Peking University, 2024—2029 (expected). Advisor: Prof. Ming Tang.\
+B.E., Resource Exploration Engineering, China University of Geosciences (Wuhan), 2020—2024. Advisor: Prof. Xin Chen.
 
 #### Research Interests
 Formation and evolution of continental crust.
