@@ -6,8 +6,8 @@
 jtlv@stu.pku.edu.cn
 
 #### Education
-<strong>-</strong> Ph.D., Geochemistry, Peking University, 2024—2029 (expected). Advisor: Prof. <strong>Ming Tang</strong>.[[Homepage]](https://mingtang.me)\
-<strong>-</strong> B.E., Resource Exploration Engineering, China University of Geosciences (Wuhan), 2020—2024. Advisor: Prof. <strong>Xin Chen</strong>[[Homepage]](https://grzy.cug.edu.cn/chenxin1/zh_CN/).
+<strong>-</strong> Ph.D., Geochemistry, Peking University, 2024—2029 (expected). Supervisor: Prof. Dr. <strong>Ming Tang</strong>.[[Homepage]](https://mingtang.me)\
+<strong>-</strong> B.E., Resource Exploration Engineering, China University of Geosciences (Wuhan), 2020—2024. Supervisor: Prof. Dr. <strong>Xin Chen</strong>.[[Homepage]](https://grzy.cug.edu.cn/chenxin1/zh_CN/)
 
 #### Research Interests
 Formation and evolution of continental crust.
